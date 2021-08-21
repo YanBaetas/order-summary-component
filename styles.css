@@ -43,7 +43,7 @@ main {
   text-align: center;
   width: 90vw;
   height: auto;
-  max-width: 400px;
+  max-width: 430px;
   border-radius: 20px;
   box-shadow: 0 10px 15px var(--dark-pale-blue);
 }
